@@ -2,7 +2,8 @@
 
 # This project is based in three languages ;
 
-#  This website is created in 2018 
+#  This website is created in 2018. 
 
-# MenuItem, Slide
-CSS, HTML and JavaScript 
+# MenuItem, SlideShow, Services, Contact space.
+
+# CSS, HTML and JavaScript.
